@@ -71,7 +71,9 @@ Gen 1 (Kanto) - 54 Pokemon
 
 #	Pokemon	Tipe	
 1-3	Bulbasaur → Ivysaur → Venusaur	Grass/Poison	
+
 4-6	Charmander → Charmeleon → Charizard	Fire/Flying	
+
 7-9	Squirtle → Wartortle → Blastoise	Water	
 25-26	Pikachu → Raichu	Electric	
 29-31	Nidoran♀ → Nidorina → Nidoqueen	Poison	
